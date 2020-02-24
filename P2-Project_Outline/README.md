@@ -1,11 +1,10 @@
 # Project Outline
 
-### Overview
+## Overview
 
 I am a perfectionist, a completionist, and I have a few OCD 
 tendencies.  As a result, I definitely plan to finish what 
-I start, and aim for absolute perfection, with no shortcuts.  
-Sometimes, the combination of these personality traits can make 
+I start, and aim for absolute perfection, with no shortcuts.  Sometimes, the combination of these personality traits can make 
 life a bit difficult, especially when I come across items that
 are hard to obtain, but required to complete a goal.
 
@@ -47,56 +46,74 @@ exchange of money / goods.
 This application should help to solve the issue of obtaining
 hard to find ingredients / products and experiences.
 
-### Features
+## Features
 
-Phase 1 (MVP):
+###Phase 1 (MVP):
 
-User Login
+####User Login:
+Users will be able to create accounts and log in to the 
+application.  Password Authentication and User Authorization 
+will be performed.
 
-Password Authentication
+####Key Word Search
+Users will be able to search existing posts for specific text 
+phrases.
 
-User Authorization
+####Create Discussion Thread
+Users will be able to create a new discussion thread.
+ 
+####Reply to Existing Post
+Users will be able to add a comment to an existing thread.
 
-Key Word Search
+####Modify Discussion Thread
+Users will be able to edit their own comments within 
+discussion threads.
 
-Add / Create Discussion Thread
+####Delete Comments / Empty Discussion Threads
+Users will be able to delete their own comments within a 
+discussion thread.  Users will also be able to delete an 
+entire discussion thread, as long as they are the creator 
+and sole contributor to the discussion thread.
 
-Delete Discussion Thread
+###Phase 2:
 
-Add / Reply to Existing Post
+####Geographical Location Features
+Users will be able to specify geographic range for inclusion 
+in a discussion thread.
 
-Phase 2:
+####Link to Other Websites
+Users will be able to upload a link to an existing website 
+featuring the product / experience they are seeking.
 
-Geographical Location Features
+###Phase 3:
 
-Link to Other Websites
+####Harness Buying Power
+My application will include a strategy / protocol for 
+exchange of money / goods, enabling users to financially 
+contribute to the acquisition cost of the desired good / 
+service.
 
-Phase 3:
+## Technologies
 
-Harness Buying Power by including strategy / protocol for 
-exchange of money / goods
+- JHipster
 
-### Technologies
+- Java
 
-JHipster
+- Spring Boot
 
-Java
+- BootStrap
 
-Spring Boot
+- MySQL
 
-BootStrap
+- Hibernate
 
-MySQL
+- Thymeleaf templates
 
-Hibernate
+- CSS
 
-Thymeleaf templates
+- HTML
 
-CSS
-
-HTML
-
-### What I'll Have to Learn
+## What I'll Have to Learn
 
 - manage expectations
 
@@ -111,6 +128,6 @@ experience
 - troubleshoot errors and overcome obstacles with current 
 limitations of coding knowledge 
 
-### Project Tracker
+## Project Tracker
 
 https://trello.com/b/SlqnhOXx/liftoff-project
