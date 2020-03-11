@@ -27,6 +27,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 All files are located in:
 
+https://github.com/lrenee/liftoff-assignments/blob/master/P3-Project_Planning/divvybuy-wireframes.xlsx
 
 ### Project Tracker
 
